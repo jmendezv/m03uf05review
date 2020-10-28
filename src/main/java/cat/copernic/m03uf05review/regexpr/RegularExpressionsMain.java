@@ -9,7 +9,7 @@ package cat.copernic.m03uf05review.regexpr;
  *
  * @author pep
  */
-public class RegularExpressions {
+public class RegularExpressionsMain {
     
     public static void main(String[] args) {
         
