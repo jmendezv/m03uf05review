@@ -3,14 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cat.copernic.m03uf05review;
+package cat.copernic.m03uf05review.regexpr;
 
 /**
  *
  * @author pep
  */
-public class M03Uf05review {
+public class RegularExpressions {
+    
     public static void main(String[] args) {
-        System.out.println("Hi");
+        
     }
+    
 }
