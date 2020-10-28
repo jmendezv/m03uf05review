@@ -6,7 +6,6 @@
 package cat.copernic.m03uf05review;
 
 import cat.copernic.m03uf05review.annotations.Tag;
-import java.lang.reflect.AnnotatedElement;
 
 /**
  *
