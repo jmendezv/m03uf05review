@@ -12,12 +12,14 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Timeout;
 
 /**
  *
  * @author pep
  */
+@DisplayName("A simple test")
 public class M03Uf05reviewTest {
     
     public M03Uf05reviewTest() {
