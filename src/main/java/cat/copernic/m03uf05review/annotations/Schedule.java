@@ -10,6 +10,9 @@ import java.lang.annotation.Repeatable;
 /**
  *
  * @author pep
+ * 
+ * https://docs.oracle.com/javase/tutorial/java/annotations/
+ * 
  */
 @Repeatable(Schedules.class)
 public @interface Schedule {

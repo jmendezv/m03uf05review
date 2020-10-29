@@ -8,6 +8,9 @@ package cat.copernic.m03uf05review.exceptions;
 /**
  *
  * @author pep
+ * 
+ * https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
+ * 
  */
 public class FormatoIlegalException extends Exception {
 

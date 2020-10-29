@@ -8,6 +8,9 @@ package cat.copernic.m03uf05review.regexpr;
 /**
  *
  * @author pep
+ * 
+ * https://docs.oracle.com/javase/tutorial/essential/regex/
+ * 
  */
 public class RegularExpressionsMain {
     

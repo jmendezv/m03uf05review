@@ -13,6 +13,8 @@ import java.lang.annotation.Target;
 /**
  *
  * @author pep
+ * 
+ * https://docs.oracle.com/javase/tutorial/java/annotations/
  */
 @Target({ ElementType.TYPE, ElementType.METHOD })
 @Retention(RetentionPolicy.RUNTIME)

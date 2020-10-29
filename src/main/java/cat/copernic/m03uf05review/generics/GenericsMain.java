@@ -8,6 +8,9 @@ package cat.copernic.m03uf05review.generics;
 /**
  *
  * @author pep
+ * 
+ * https://docs.oracle.com/javase/tutorial/extra/generics/index.html
+ * 
  */
 public class GenericsMain {
     
