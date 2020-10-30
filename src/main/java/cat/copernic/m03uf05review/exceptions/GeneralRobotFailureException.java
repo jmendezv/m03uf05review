@@ -12,13 +12,13 @@ package cat.copernic.m03uf05review.exceptions;
  * https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html
  * 
  */
-public class FormatoIlegalException extends Exception {
+public class GeneralRobotFailureException extends Exception {
 
     /**
      * Creates a new instance of <code>FormatoIlegalException</code> without
      * detail message.
      */
-    public FormatoIlegalException() {
+    public GeneralRobotFailureException() {
     }
 
     /**
@@ -27,7 +27,21 @@ public class FormatoIlegalException extends Exception {
      *
      * @param msg the detail message.
      */
-    public FormatoIlegalException(String msg) {
+    public GeneralRobotFailureException(String msg) {
         super(msg);
     }
+
+    public GeneralRobotFailureException(String message, Throwable cause) {
+        super(message, cause);
+    }
+
+    public GeneralRobotFailureException(Throwable cause) {
+        super(cause);
+    }
+
+    public GeneralRobotFailureException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+        super(message, cause, enableSuppression, writableStackTrace);
+    }
+    
+    
 }
