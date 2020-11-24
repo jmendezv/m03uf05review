@@ -8,6 +8,9 @@ package cat.copernic.m03uf05review.annotations;
 /**
  *
  * @author pep
+ * 
+ * https://docs.oracle.com/javase/tutorial/java/annotations/
+ * 
  */
 public @interface Schedules {
     Schedule[] value();

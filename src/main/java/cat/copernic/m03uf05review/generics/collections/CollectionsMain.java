@@ -3,19 +3,23 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cat.copernic.m03uf05review.regexpr;
+package cat.copernic.m03uf05review.generics.collections;
 
 /**
  *
  * @author pep
  * 
- * https://docs.oracle.com/javase/tutorial/essential/regex/
+ * https://docs.oracle.com/javase/tutorial/collections/TOC.html
+ * 
  * 
  */
-public class RegularExpressionsMain {
-    
+public class CollectionsMain {
+
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        
+        // TODO code application logic here
     }
     
 }
